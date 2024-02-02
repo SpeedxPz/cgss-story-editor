@@ -1,0 +1,72 @@
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.exe
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.pdb
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\Assembly-CSharp.dll
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\UnityEngine.dll
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\Assembly-Takumi.dll
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\P31RestKit.dll
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\UnityEngine.xml
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csprojResolveAssemblyReference.cache
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.frmStoryEditor.resources
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.Properties.Resources.resources
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.GenerateResource.Cache
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.exe
+c:\users\takumi\documents\visual studio 2010\Projects\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.pdb
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.exe
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.pdb
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\Assembly-CSharp.dll
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\UnityEngine.dll
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\Assembly-Takumi.dll
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\P31RestKit.dll
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\UnityEngine.xml
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csprojResolveAssemblyReference.cache
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.frmStoryEditor.resources
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.Properties.Resources.resources
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.GenerateResource.Cache
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.exe
+C:\sdcard\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.pdb
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.exe
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.pdb
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.exe
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.pdb
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\UnityEngine.dll
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\Assembly-Takumi.dll
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\P31RestKit.dll
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\UnityEngine.xml
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csprojResolveAssemblyReference.cache
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.frmStoryEditor.resources
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.Properties.Resources.resources
+D:\Sync Zone\Dropbox\Document\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.GenerateResource.Cache
+D:\Sync Zone\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.exe
+D:\Sync Zone\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.pdb
+D:\Sync Zone\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.exe
+D:\Sync Zone\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.pdb
+D:\Sync Zone\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.frmStoryEditor.resources
+D:\Sync Zone\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.Properties.Resources.resources
+D:\Sync Zone\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.GenerateResource.Cache
+D:\Sync Zone\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csprojAssemblyReference.cache
+D:\Sync Zone\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.CoreCompileInputs.cache
+D:\Sync Zone\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.CopyComplete
+D:\User Storage\Cloud Sync\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.exe
+D:\User Storage\Cloud Sync\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.pdb
+D:\User Storage\Cloud Sync\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.AssemblyReference.cache
+D:\User Storage\Cloud Sync\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.frmStoryEditor.resources
+D:\User Storage\Cloud Sync\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.Properties.Resources.resources
+D:\User Storage\Cloud Sync\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.GenerateResource.cache
+D:\User Storage\Cloud Sync\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.CoreCompileInputs.cache
+D:\User Storage\Cloud Sync\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.CopyComplete
+D:\User Storage\Cloud Sync\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.exe
+D:\User Storage\Cloud Sync\Google Drive\My Project\Programming\Stable Project\CGSS_StoryDataEditor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.pdb
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.exe
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\bin\Debug\CGSS_StoryDataEditor.pdb
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\bin\Debug\Assembly-CSharp.dll
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.AssemblyReference.cache
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.frmStoryEditor.resources
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.Properties.Resources.resources
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.GenerateResource.cache
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.CoreCompileInputs.cache
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.csproj.CopyComplete
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.exe
+C:\Users\speed\OneDrive\Desktop\cgss-story-editor\CGSS_StoryDataEditor\obj\x86\Debug\CGSS_StoryDataEditor.pdb
